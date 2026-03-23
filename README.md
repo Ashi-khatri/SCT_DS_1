@@ -1,4 +1,4 @@
-# 📊 SCT_DS_1 – Data Analysis & Visualization Project
+# 📊 data-analysis-visualization-python
 
 > A Python-based data analysis project focused on extracting insights through data cleaning, processing, and visualization.
 
